@@ -7,8 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-title">STOPWATCHapp</div>
-        <div className="Timers">
+        <div className="TimeX">
           <Stopwatch />
 
         </div>
